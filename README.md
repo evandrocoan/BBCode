@@ -54,6 +54,7 @@ This is a fork of the [TextMate BBCode Bundle][1] by [Ryan Bates][2], Michael Di
 search for **`BBCode`** and press <kbd>Enter</kbd>
 
 See also:
+
 1. [ITE - Integrated Toolset Environment](https://github.com/evandrocoan/ITE)
 1. [Package control docs](https://packagecontrol.io/docs/usage) for details.
 
